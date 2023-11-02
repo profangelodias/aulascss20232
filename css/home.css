@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.divisoria{
+    background-color:blue;
+}
+
+#div1{
+    margin: 50px 10px 10px 5px;
+    padding: 10px;
+    border: 10px solid #000;
+
+
+    background-color:blue;
+    background-image: url(../img/angry-birds-featured.webp);
+}
+
+p {
+    color: azure;
+}
+
+#div2{
+    position: relative;
+    background-color:blue;
+    float: left;
+}
